@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project presents an interactive sales dashboard developed in **Microsoft Excel** to analyze business performance across multiple dimensions, including sales, profit, quantity, customer segments, shipping methods, and geographical regions.
 
@@ -12,7 +12,7 @@ The dashboard enables users to explore the data dynamically through interactive 
 
 ---
 
-## 🛠️ Tools & Features
+## Tools & Features
 
 - Microsoft Excel
 - Pivot Tables
@@ -24,7 +24,7 @@ The dashboard enables users to explore the data dynamically through interactive 
 
 ---
 
-## 📂 Dataset Information
+## Dataset Information
 
 | Feature | Details |
 |---------|---------|
@@ -59,7 +59,7 @@ The dashboard enables users to explore the data dynamically through interactive 
 
 ---
 
-## 📊 Key Performance Indicators
+## Key Performance Indicators
 
 | KPI | Description |
 |------|-------------|
@@ -71,7 +71,7 @@ The dashboard enables users to explore the data dynamically through interactive 
 
 ---
 
-## 📊 Dashboard Visualizations
+## Dashboard Visualizations
 
 ✔ Sales by Category
 
@@ -93,7 +93,7 @@ The dashboard enables users to explore the data dynamically through interactive 
 
 ---
 
-## 🎛 Interactive Filters
+## Interactive Filters
 
 The dashboard includes dynamic slicers for:
 
@@ -107,7 +107,7 @@ Users can instantly filter the dashboard to perform interactive business analysi
 
 ---
 
-## 💡 Business Insights
+## Business Insights
 
 - Technology contributes the highest overall profit.
 - Consumer segment accounts for the largest share of sales.
@@ -119,7 +119,7 @@ Users can instantly filter the dashboard to perform interactive business analysi
 
 ---
 
-## 🎯 Skills Demonstrated
+## Skills Demonstrated
 
 - Data Cleaning
 - Data Analysis
@@ -132,7 +132,7 @@ Users can instantly filter the dashboard to perform interactive business analysi
 
 ---
 
-## 📬 Contact
+## Contact
 
 **Sandhya Mahendra Maurya**
 
