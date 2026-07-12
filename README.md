@@ -54,7 +54,7 @@ The dashboard enables users to explore the data dynamically through interactive 
 # Dashboard Preview
 
 <p align="center">
-<img src="C:\Users\Sandhya\Desktop\SANDHYA\Data Analysis\Superstore_sales_dashboard\Dashboard_image .png" width="900">
+<img src="Dashboard_image .png" width="900">
 </p>
 
 ---
