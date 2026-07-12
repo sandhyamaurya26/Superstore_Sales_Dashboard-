@@ -54,7 +54,7 @@ The dashboard enables users to explore the data dynamically through interactive 
 # Dashboard Preview
 
 <p align="center">
-<img src="Dashboard_image .png" width="900">
+<img src="Superstore_sales_dashboard.png" width="900">
 </p>
 
 ---
