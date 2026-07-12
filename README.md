@@ -63,11 +63,11 @@ The dashboard enables users to explore the data dynamically through interactive 
 
 | KPI | Description |
 |------|-------------|
-| 💰 Total Sales | Overall Sales Generated |
-| 📦 Total Quantity | Products Sold |
-| 📈 Total Profit | Overall Business Profit |
-| 💵 Average Sales | Average Sales per Order |
-| 🎯 Profit Margin | Profitability Percentage |
+| Total Sales | Overall Sales Generated |
+| Total Quantity | Products Sold |
+| Total Profit | Overall Business Profit |
+| Average Sales | Average Sales per Order |
+| Profit Margin | Profitability Percentage |
 
 ---
 
@@ -136,6 +136,6 @@ Users can instantly filter the dashboard to perform interactive business analysi
 
 **Sandhya Mahendra Maurya**
 
-💼 LinkedIn: *(Add your LinkedIn link)*
+ LinkedIn: *(Add your LinkedIn link)*
 
-💻 GitHub: *(Add your GitHub profile link)*
+ GitHub: *(Add your GitHub profile link)*
