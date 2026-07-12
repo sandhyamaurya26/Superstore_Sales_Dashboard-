@@ -134,8 +134,8 @@ Users can instantly filter the dashboard to perform interactive business analysi
 
 ## Contact
 
-**Sandhya Mahendra Maurya**
+**Sandhya Mahendra Mourya**
 
- LinkedIn: *(Add your LinkedIn link)*
+ LinkedIn: https://www.linkedin.com/in/sandhya-mourya-a92475286/
 
- GitHub: *(Add your GitHub profile link)*
+ GitHub: https://github.com/sandhyamaurya26
